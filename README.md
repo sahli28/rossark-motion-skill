@@ -15,8 +15,10 @@ The animation above is drawn and animated entirely in code, with the templates i
 ## Install
 
 ```bash
-npx skills@latest add rossark0/rossark-motion-skill
+npx skills@latest add sahli28/rossark-motion-skill
 ```
+
+This is a fork of [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill). To install the original instead: `npx skills@latest add rossark0/rossark-motion-skill`.
 
 ## Why use it?
 
